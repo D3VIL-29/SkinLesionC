@@ -12,11 +12,11 @@ This Project aims at Skin Lesions Classification using Deep Learning and make an
 
 ### **Methodolgy**
 
-EDA analysis of the dataset
-Pre Processing
-Making Baseline and using pretrained models
-Fine tuning
-Ensembling the 2 best models
+EDA analysis of the dataset ->
+Pre Processing ->
+Making Baseline and using pretrained models ->
+Fine tuning ->
+Ensembling the 2 best models ->
 Testing and choosing best one
 
 Creating An App in flutter
